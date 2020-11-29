@@ -3,5 +3,5 @@
 -> Download .zip 
 -> Open in VS Code or else programme
 -> In Terminal type 'npm install -g nodemon'
--> nodemon src/app.js hbs,js
+-> In Terminal type 'nodemon src/app.js hbs,js'
 -> W przegladarce localhost:3000
