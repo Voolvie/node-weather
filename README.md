@@ -1,3 +1,1 @@
-# node-weather
--> nodemon src/app.js hbs,js
--> W przegladarce localhost:3000
+VIEW APP ON https://klemczak-weather-aplication.herokuapp.com/
